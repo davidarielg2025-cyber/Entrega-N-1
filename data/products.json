@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1769055766076,
+    "title": "Campera impermeable",
+    "description": "Campera para lluvia y viento",
+    "code": "CAMP002",
+    "price": 7800,
+    "status": true,
+    "stock": 10,
+    "category": "ropa",
+    "thumbnails": [
+      "img/campera1.png"
+    ]
+  },
+  {
+    "id": 1769056032019,
+    "title": "Buzo con capucha",
+    "description": "Buzo térmico ideal para invierno",
+    "code": "BUZ005",
+    "price": 7500,
+    "status": true,
+    "stock": 20,
+    "category": "ropa",
+    "thumbnails": [
+      "img/buzo1.png"
+    ]
+  },
+  {
+    "id": 1769056083758,
+    "title": "Buzo con capucha",
+    "description": "Buzo térmico ideal para invierno",
+    "code": "BUZ005",
+    "price": 6900,
+    "status": true,
+    "stock": 20,
+    "category": "ropa",
+    "thumbnails": [
+      "img/buzo1.png"
+    ]
+  }
+]
